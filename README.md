@@ -1,10 +1,15 @@
-Dialog Segmentation, Speaker ID Mapping and Emotion Recognition for Movie Genre Prediction
-Link to dataset: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+Dialog Segmentation, Speaker ID Mapping and Emotion Recognition in Movie and TV Subtitles  
+
+HCI Project (E1 slot) : Prof. Joshva Devadas T  
+Prishita Ray- 17BCE2405  
+Arushi Das- 17BCE0087  
+
+Link to dataset used for testing the models: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
 Steps involved in Natural Language Processing:
-1. Sentence Segmentation- Done
-2. Word Tokenization- Done
-3. Predicting Parts of Speech for Each Token- Done
+1. Sentence Segmentation
+2. Word Tokenization
+3. Predicting Parts of Speech for Each Token
 4. Text Lemmatization 
 5. Identifying and Removing Stop words
 6. Dependency Parsing
@@ -15,7 +20,6 @@ Steps involved in Natural Language Processing:
 Tasks to Complete:
 1. To find situations where turn of dialog can occur
 2. When turn of dialog occurs, map speaker id to it, if not obvious keep it as unknown
-3. Recognize emotion from the entire dialog sequence in each movie.
-4. For each genre, decide level of each emotion required and then predict
+3. Recognize emotion from the entire dialog sequence in each movie being tested and predict
 
 Link to paper: https://www.aclweb.org/anthology/W18-5021.pdf
